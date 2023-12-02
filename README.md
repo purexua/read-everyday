@@ -1,5 +1,11 @@
 - 
 
+- 第 5 篇：[NVIDIA黄仁勋在台大毕业典礼的演讲：用AI创造奇迹](https://www.businessweekly.com.tw/focus/blog/3012429)（中文）
+
+  > 黄仁勋受邀参加台大毕业典礼。
+  >
+  > "请全力以赴追求自己的理想；要用奔跑的态度，不是慢慢走；做猎人，而非猎物。"
+
 - 第 4 篇：[五种与你不喜欢的人高效合作的方法](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/?sh=6a33a3102349)（[中文](https://baoyu.io/translations/work/5-ways-to-work-effectively-with-someone-you-really-dont-like)）
 
   > 与难以相处的同事合作可能会让你精疲力尽。
