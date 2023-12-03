@@ -1,5 +1,11 @@
 - 
 
+- 第 6 篇：[What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/)
+
+  > OpenAI 真正想要什么。
+  >
+  > 这家年轻的公司发布 ChatGPT 后震惊了世界。但这只是开始。最终目标：改变一切。是的。一切。
+
 - 第 5 篇：[NVIDIA黄仁勋在台大毕业典礼的演讲：用AI创造奇迹](https://www.businessweekly.com.tw/focus/blog/3012429)（中文）
 
   > 黄仁勋受邀参加台大毕业典礼。
