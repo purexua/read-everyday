@@ -1,4 +1,6 @@
-- 
+- 第 8 篇：[Kai](https://twitter.com/real_kai42)：[如何让 github copilot 完成我日常 50% 左右的工作](https://twitter.com/real_kai42/status/1728280569640018107)
+
+  > 注：为了阅读方便，我将原帖进行合并 ([ref](./storage/article-7.md))
 
 - 第 7 篇：[构建企业级大语言模型应用的秘诀：GitHub Copilot 的实践之路](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)（[中文](https://baoyu.io/translations/llm/how-to-build-an-enterprise-llm-application-lessons-from-github-copilot)）
 
