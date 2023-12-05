@@ -1,5 +1,13 @@
 - 
 
+- 第 7 篇：[构建企业级大语言模型应用的秘诀：GitHub Copilot 的实践之路](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)（[中文](https://baoyu.io/translations/llm/how-to-build-an-enterprise-llm-application-lessons-from-github-copilot)）
+
+  >GitHub Copilot 的开发团队分享了他们在构建能够同时为个人和企业用户带来价值的大语言模型（LLM）应用的心得体会。
+  >
+  >我们花了三年时间开发 GitHub Copilot，然后才正式向公众推出。为了从想法到生产，我们遵循三个阶段——找到它、钉住它、扩展它——大致基于“钉住它，然后扩展它”的创业产品开发框架。
+  >
+  >*翻译者：[宝玉](https://baoyu.io/)*
+
 - 第 6 篇：[What OpenAI Really Wants](https://www.wired.com/story/what-openai-really-wants/)
 
   > OpenAI 真正想要什么。
