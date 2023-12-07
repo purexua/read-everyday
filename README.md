@@ -1,3 +1,21 @@
+- 第 11 篇：[Gemini 介绍：我们的超级 AI 模型](https://baoyu.io/translations/google/google-gemini-ai) （中文）
+
+  > 每一次技术革新都是推动科学突破、加快人类前进的好机会，也是改善我们的生活的大好时机。
+  >
+  > 我认为，我们现在见证的 AI 革命将是我们一生中最为深远的改变，这种影响甚至超过了手机和互联网的普及。
+  >
+  > AI 的潜力无限，它不仅能够改善我们的日常生活，还能在更高层面上创造出非凡的机会。AI 将引领创新与经济的新浪潮，并以前所未有的规模推动知识、学习、创造力和生产力的提升。
+
+- 第 10 篇：[我们是如何利用大语言模型 (LLM) 改进 GitHub Copilot 的探索之旅](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/)（[中文](https://baoyu.io/translations/github/how-were-experimenting-with-llms-to-evolve-github-copilot)）
+
+  > Developers also see big benefits to AI.
+  >
+  > 在这篇博文中，我们将分享过去几年中围绕生成式 AI 模型所进行的各种实验，以及从这些实验中获得的关键经验。我们还会探讨如何将一个全新技术从概念阶段转化为实际产品。
+
+- 第 9 篇：[时代杂志：2023年度CEO —— Sam Altman](https://time.com/6342827/ceo-of-the-year-2023-sam-altman/)
+
+  > Altman，38 岁，已在硅谷作为显赫创始人身份闪耀十年，他的领袖魅力无人能及。
+
 - 第 8 篇：[Kai](https://twitter.com/real_kai42)：[如何让 github copilot 完成我日常 50% 左右的工作](https://twitter.com/real_kai42/status/1728280569640018107)
 
   > 注：为了阅读方便，我将原帖进行合并 ([ref](./storage/article-7.md))
