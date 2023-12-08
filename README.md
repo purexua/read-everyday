@@ -1,3 +1,11 @@
+- 第 13 篇：纪录片《Aardvark'd》（[英文](https://mtlynch.io/aardvarkd/)）
+
+  > 2005年，一个导演来到 FogCreek 公司，拍摄四个实习生的生活，一共拍摄了三个月，后来就剪成了下面这部纪录片。
+  >
+  > 很可惜，没有多少人看过。现在，它已经放上了 [Youtube](https://www.youtube.com/watch?v=YbrkZ07LKbk)，可以免费观看。
+  >
+  > 18 年后回顾这部纪录片，令人惊讶的是它对那些后来获得更大名气和成功的人进行了多少采访
+  
 - 第 12 篇：[如何理解关于 OpenAI Q* 的流言](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)（[中文](https://baoyu.io/translations/ai/how-to-think-about-the-openai-q-rumors)）
 
   > 11 月 22 日，就在 OpenAI 因某些原因解雇后又重新聘用了 CEO Sam Altman 几天之后，[The Information 的一篇报道](https://www.theinformation.com/articles/openai-made-an-ai-breakthrough-before-altman-firing-stoking-excitement-and-concern)指出 OpenAI 实现了一个技术上的飞跃，这使得他们可以构建更加强大的人工智能模型。
