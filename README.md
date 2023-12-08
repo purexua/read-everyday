@@ -1,3 +1,9 @@
+- 第 12 篇：[如何理解关于 OpenAI Q* 的流言](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)（[中文](https://baoyu.io/translations/ai/how-to-think-about-the-openai-q-rumors)）
+
+  > 11 月 22 日，就在 OpenAI 因某些原因解雇后又重新聘用了 CEO Sam Altman 几天之后，[The Information 的一篇报道](https://www.theinformation.com/articles/openai-made-an-ai-breakthrough-before-altman-firing-stoking-excitement-and-concern)指出 OpenAI 实现了一个技术上的飞跃，这使得他们可以构建更加强大的人工智能模型。
+  >
+  > 这个新模型被称为 Q*（读作“Q 星”），它能够解决一些它之前未曾遇到的数学问题。
+  
 - 第 11 篇：[Gemini 介绍：我们的超级 AI 模型](https://baoyu.io/translations/google/google-gemini-ai) （中文）
 
   > 每一次技术革新都是推动科学突破、加快人类前进的好机会，也是改善我们的生活的大好时机。
