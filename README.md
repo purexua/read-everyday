@@ -1,3 +1,11 @@
+- 第 14 篇：[The big idea: is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)（[中文](./storage/article-14.md)）
+
+  > 我心目中，完美游戏的标准是
+  >
+  > 1. 玩家可以用实力取胜，但掷骰子那样的偶然因素也可以起作用
+  > 2. 游戏结果不可预测，技术较差的玩家也有获胜机会
+  > 3. 游戏规则简单，可以快速学习，但是游戏过程不会千篇一律。
+  
 - 第 13 篇：纪录片《Aardvark'd》（[英文](https://mtlynch.io/aardvarkd/)）
 
   > 2005年，一个导演来到 FogCreek 公司，拍摄四个实习生的生活，一共拍摄了三个月，后来就剪成了下面这部纪录片。
