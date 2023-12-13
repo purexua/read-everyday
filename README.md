@@ -1,3 +1,9 @@
+- 第 15 篇：[Three types of AI-assisted programmers](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/)
+
+  > What matters isn’t just whether you use it, but how.
+  >
+  > 关键在于不仅要用，更要会用。
+  
 - 第 14 篇：[The big idea: is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)（[中文](./storage/article-14.md)）
 
   > 我心目中，完美游戏的标准是
