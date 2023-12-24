@@ -1,3 +1,15 @@
+- 第 16 篇：年终感想！ 没有目的地，向前走
+
+  > 又是年底，一年过去了。
+  >
+  > 大家往往会回顾，这一年实现了哪些目标，下一年要设定哪些目标。
+  >
+  > 今天，我想分享 BaseCamp 公司创始人 Jason Fried 的一篇短文，题目就叫[《我从来没有目标》](https://m.signalvnoise.com/ive-never-had-a-goal/)。
+  >
+  > 你可以不给自己设定目标，因为**目标是你做事的副产品**。只要你按照自己的信念，不断地努力去做事、去尝试，就可以了，至于能做到哪一步，顺其自然就好了。
+  >
+  > 新的一年，我想我也是这样，没有目的地，就是向前走。
+  
 - 第 15 篇：[Three types of AI-assisted programmers](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/)
 
   > What matters isn’t just whether you use it, but how.
