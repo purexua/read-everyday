@@ -8,7 +8,7 @@
 
 I hope you find them useful.
 
-## article
+## Articles
 
 - 第 17 篇：[The CEO and the Three Envelopes](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 
@@ -36,7 +36,7 @@ I hope you find them useful.
   >
   > 关键在于不仅要用，更要会用。
 
-- 第 14 篇：[The big idea: is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)（[中文](./storage/article-14.md)）
+- 第 14 篇：[The big idea: is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)
 
   > 我心目中，完美游戏的标准是
   >
@@ -52,13 +52,13 @@ I hope you find them useful.
   >
   > 18 年后回顾这部纪录片，令人惊讶的是它对那些后来获得更大名气和成功的人进行了多少采访
 
-- 第 12 篇：[如何理解关于 OpenAI Q* 的流言](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)（[中文](https://baoyu.io/translations/ai/how-to-think-about-the-openai-q-rumors)）
+- 第 12 篇：[如何理解关于 OpenAI Q* 的流言](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)
 
   > 11 月 22 日，就在 OpenAI 因某些原因解雇后又重新聘用了 CEO Sam Altman 几天之后，[The Information 的一篇报道](https://www.theinformation.com/articles/openai-made-an-ai-breakthrough-before-altman-firing-stoking-excitement-and-concern)指出 OpenAI 实现了一个技术上的飞跃，这使得他们可以构建更加强大的人工智能模型。
   >
   > 这个新模型被称为 Q*（读作“Q 星”），它能够解决一些它之前未曾遇到的数学问题。
 
-- 第 11 篇：[Gemini 介绍：我们的超级 AI 模型](https://baoyu.io/translations/google/google-gemini-ai) （中文）
+- 第 11 篇：[Gemini 介绍：我们的超级 AI 模型](https://blog.google/technology/ai/google-gemini-ai/#availability)
 
   > 每一次技术革新都是推动科学突破、加快人类前进的好机会，也是改善我们的生活的大好时机。
   >
@@ -66,7 +66,7 @@ I hope you find them useful.
   >
   > AI 的潜力无限，它不仅能够改善我们的日常生活，还能在更高层面上创造出非凡的机会。AI 将引领创新与经济的新浪潮，并以前所未有的规模推动知识、学习、创造力和生产力的提升。
 
-- 第 10 篇：[我们是如何利用大语言模型 (LLM) 改进 GitHub Copilot 的探索之旅](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/)（[中文](https://baoyu.io/translations/github/how-were-experimenting-with-llms-to-evolve-github-copilot)）
+- 第 10 篇：[我们是如何利用大语言模型 (LLM) 改进 GitHub Copilot 的探索之旅](https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/)
 
   > Developers also see big benefits to AI.
   >
@@ -80,7 +80,7 @@ I hope you find them useful.
 
   > 注：为了阅读方便，我将原帖进行合并 ([ref](./storage/article-7.md))
 
-- 第 7 篇：[构建企业级大语言模型应用的秘诀：GitHub Copilot 的实践之路](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)（[中文](https://baoyu.io/translations/llm/how-to-build-an-enterprise-llm-application-lessons-from-github-copilot)）
+- 第 7 篇：[构建企业级大语言模型应用的秘诀：GitHub Copilot 的实践之路](https://github.blog/2023-09-06-how-to-build-an-enterprise-llm-application-lessons-from-github-copilot/)
 
   >GitHub Copilot 的开发团队分享了他们在构建能够同时为个人和企业用户带来价值的大语言模型（LLM）应用的心得体会。
   >
@@ -100,37 +100,33 @@ I hope you find them useful.
   >
   > "请全力以赴追求自己的理想；要用奔跑的态度，不是慢慢走；做猎人，而非猎物。"
 
-- 第 4 篇：[五种与你不喜欢的人高效合作的方法](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/?sh=6a33a3102349)（[中文](https://baoyu.io/translations/work/5-ways-to-work-effectively-with-someone-you-really-dont-like)）
+- 第 4 篇：[五种与你不喜欢的人高效合作的方法](https://www.forbes.com/sites/tracybrower/2023/11/26/5-ways-to-work-effectively-with-someone-you-really-dont-like/?sh=6a33a3102349)
 
   > 与难以相处的同事合作可能会让你精疲力尽。
   >
   > 工作中不仅有艰巨的任务和职业挫折这样的压力源，更具挑战的是，有时你不得不与那些你不喜欢、不合得来或让你感到烦恼的人一起工作。
   >
-  > *翻译者：[宝玉](https://baoyu.io/)*
-
-- 第 3 篇：[如何阅读一篇学术论文](https://t.co/TkAsvyk1xd)（[中文](https://baoyu.io/translations/learning/how-to-read-a-paper)）
+  
+- 第 3 篇：[如何阅读一篇学术论文](https://t.co/TkAsvyk1xd)
 
   > 研究人员常常需要花费大量时间来阅读学术论文，但这一技能很少有教授传授，导致许多努力白费。
   >
   > 本文提出了一个既实用又高效的方法——三遍阅读法，用于阅读学术论文，并介绍了如何利用这种方法进行文献调研。
   >
-  > *翻译者：[宝玉](https://baoyu.io/)*
-
-- 第 2 篇 ：[回望我在谷歌的 18 年](https://ln.hixie.ch/?start=1700627373&count=1)（[中文](https://baoyu.io/translations/google/reflecting-on-18-years-at-google)）
+  
+- 第 2 篇 ：[回望我在谷歌的 18 年](https://ln.hixie.ch/?start=1700627373&count=1)
 
   > 我于 2005 年 10 月加入谷歌，18 年后，我递交了辞呈。上周，我结束了在谷歌的最后一段日子。
   >
   > 对于能够亲历谷歌上市初期的时光，我感到非常幸运；不同于大多数公司，与通常的看法相反，从基层工程师到高层管理者，谷歌的员工都真心致力于做正确的事情。经常被嘲讽的口号“[不作恶](https://en.wikipedia.org/wiki/Don't_be_evil)”实际上是当时公司的核心原则。
   >
-  > *翻译者：[宝玉](https://baoyu.io/)*
-
-- 第 1 篇 ：[黄仁勋领导的 Nvidia 如何推动 AI 革命 - 英文](https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution) （[中文](https://baoyu.io/translations/new-yorker/how-jensen-huangs-nvidia-is-powering-the-ai-revolution)）
+  
+- 第 1 篇 ：[黄仁勋领导的 Nvidia 如何推动 AI 革命 - 英文](https://www.newyorker.com/magazine/2023/12/04/how-jensen-huangs-nvidia-is-powering-the-ai-revolution)
 
   > 2023 年 11 月 27 日
   >
   > Nvidia 的 CEO 黄仁勋把全部筹码都放在了一种全新的芯片上。如今，Nvidia 已经跻身世界最大公司之列，那么他的下一步计划会是什么呢？
   >
-  > *翻译者：[宝玉](https://baoyu.io/)*
 
 ## Books
 
