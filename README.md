@@ -1,3 +1,15 @@
+# Reading List
+
+我发现自己总是推荐同样类型的文章。
+
+所以，我编制了一份我认为对于我们这些程序员最有影响力的 **书籍/文章** 清单。
+
+当然，这些大多都是我感兴趣的领域，比如 AI、software developer、programming、frame、UI/UX
+
+I hope you find them useful.
+
+## article
+
 - 第 17 篇：[The CEO and the Three Envelopes](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 
   > 一家陷入困境的公司聘请了一位新 CEO。在即将离职的 CEO 私下与他见面时，递给他三个编号的信封，并告诉他：“如果遇到大麻烦，就翻开这些信封。”
@@ -5,7 +17,7 @@
   > 整体而言，文章通过这个富有戏剧性的故事
   >
   > 传达了在企业领导层面对问题时，常规解决方案可能不足以应对挑战，需要更创新的方法。
-  
+
 - 第 16 篇：年终感想！ 没有目的地，向前走
 
   > 又是年底，一年过去了。
@@ -17,13 +29,13 @@
   > 你可以不给自己设定目标，因为**目标是你做事的副产品**。只要你按照自己的信念，不断地努力去做事、去尝试，就可以了，至于能做到哪一步，顺其自然就好了。
   >
   > 新的一年，我想我也是这样，没有目的地，就是向前走。
-  
+
 - 第 15 篇：[Three types of AI-assisted programmers](https://stackoverflow.blog/2023/12/11/three-types-of-ai-assisted-programmers/)
 
   > What matters isn’t just whether you use it, but how.
   >
   > 关键在于不仅要用，更要会用。
-  
+
 - 第 14 篇：[The big idea: is there such a thing as the perfect game?](https://www.theguardian.com/books/2023/oct/09/the-big-idea-is-there-such-a-thing-as-the-perfect-game)（[中文](./storage/article-14.md)）
 
   > 我心目中，完美游戏的标准是
@@ -31,7 +43,7 @@
   > 1. 玩家可以用实力取胜，但掷骰子那样的偶然因素也可以起作用
   > 2. 游戏结果不可预测，技术较差的玩家也有获胜机会
   > 3. 游戏规则简单，可以快速学习，但是游戏过程不会千篇一律。
-  
+
 - 第 13 篇：纪录片《Aardvark'd》（[英文](https://mtlynch.io/aardvarkd/)）
 
   > 2005年，一个导演来到 FogCreek 公司，拍摄四个实习生的生活，一共拍摄了三个月，后来就剪成了下面这部纪录片。
@@ -39,13 +51,13 @@
   > 很可惜，没有多少人看过。现在，它已经放上了 [Youtube](https://www.youtube.com/watch?v=YbrkZ07LKbk)，可以免费观看。
   >
   > 18 年后回顾这部纪录片，令人惊讶的是它对那些后来获得更大名气和成功的人进行了多少采访
-  
+
 - 第 12 篇：[如何理解关于 OpenAI Q* 的流言](https://www.understandingai.org/p/how-to-think-about-the-openai-q-rumors)（[中文](https://baoyu.io/translations/ai/how-to-think-about-the-openai-q-rumors)）
 
   > 11 月 22 日，就在 OpenAI 因某些原因解雇后又重新聘用了 CEO Sam Altman 几天之后，[The Information 的一篇报道](https://www.theinformation.com/articles/openai-made-an-ai-breakthrough-before-altman-firing-stoking-excitement-and-concern)指出 OpenAI 实现了一个技术上的飞跃，这使得他们可以构建更加强大的人工智能模型。
   >
   > 这个新模型被称为 Q*（读作“Q 星”），它能够解决一些它之前未曾遇到的数学问题。
-  
+
 - 第 11 篇：[Gemini 介绍：我们的超级 AI 模型](https://baoyu.io/translations/google/google-gemini-ai) （中文）
 
   > 每一次技术革新都是推动科学突破、加快人类前进的好机会，也是改善我们的生活的大好时机。
@@ -119,3 +131,7 @@
   > Nvidia 的 CEO 黄仁勋把全部筹码都放在了一种全新的芯片上。如今，Nvidia 已经跻身世界最大公司之列，那么他的下一步计划会是什么呢？
   >
   > *翻译者：[宝玉](https://baoyu.io/)*
+
+## Books
+
+- 
