@@ -10,6 +10,19 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 18 篇：[Why Most Software Engineering KPIs are Bullshit and What to Do About it in 2024](https://jamesyorston.co.uk/articles/most_engineering_kpis_are_bs)
+
+  > 成为一名工程领导者时，常常不可避免的事实是，最终你将不得不开始提供关于团队健康、生产力和产出的指标。
+  >
+  > 然而，多年来，我总是以同样的开场白给出我的答案。
+  > *“Most engineering KPIs are bullshit.”*
+  >
+  > 如果您的组织正在使用基于产出的指标来评估工程绩效，我敦促您重新考虑，将工程与您的愿景联系起来，并根据实际业务影响来衡量其进展。
+  >
+  > References: 
+  >
+  > McKinsey Paper - [Yes, you can measure software developer productivity](https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/yes-you-can-measure-software-developer-productivity)
+
 - 第 17 篇：[The CEO and the Three Envelopes](https://kevinkruse.com/the-ceo-and-the-three-envelopes/)
 
   > 一家陷入困境的公司聘请了一位新 CEO。在即将离职的 CEO 私下与他见面时，递给他三个编号的信封，并告诉他：“如果遇到大麻烦，就翻开这些信封。”
