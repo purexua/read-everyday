@@ -10,6 +10,10 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 19 篇：[2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
+
+  > 人工智能在2023年无疑引起了轰动，我们在这里重点关注了这一年最重要的故事，这些故事将塑造这个开创性行业的未来。
+  
 - 第 18 篇：[Why Most Software Engineering KPIs are Bullshit and What to Do About it in 2024](https://jamesyorston.co.uk/articles/most_engineering_kpis_are_bs)
 
   > 成为一名工程领导者时，常常不可避免的事实是，最终你将不得不开始提供关于团队健康、生产力和产出的指标。
