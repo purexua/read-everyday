@@ -10,6 +10,11 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 21 篇：[List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+  >This is a list of [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP) response status codes. Status codes are issued by a server in response to a [client's request](https://en.wikipedia.org/wiki/Client_(computing)) made to the server.
+  >
+  >这是一个超文本传输协议（HTTP）响应状态码的列表。状态码是服务器对客户端发出的请求作出的响应。
+  
 - 第 20 篇：[What is a RESTful API?](https://aws.amazon.com/what-is/restful-api/)
 
   > Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work.
