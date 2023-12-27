@@ -10,6 +10,20 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 20 篇：[What is a RESTful API?](https://aws.amazon.com/what-is/restful-api/)
+
+  > Representational State Transfer (REST) is a software architecture that imposes conditions on how an API should work.
+  >
+  > 表述性状态转移（REST）是一种软件架构，对API的工作方式有一定的限制。
+  
+  > RESTful API is an interface that two computer systems use to exchange information securely over the internet. 
+  >
+  > RESTful API是两个计算机系统在互联网上安全交换信息的接口。
+  
+  > An application programming interface (API) defines the rules that you must follow to communicate with other software systems.
+  >
+  > 应用程序编程接口（API）定义了您必须遵循的规则，以便与其他软件系统进行通信。
+  
 - 第 19 篇：[2023: The Year of AI](https://journal.everypixel.com/2023-the-year-of-ai)
 
   > 人工智能在2023年无疑引起了轰动，我们在这里重点关注了这一年最重要的故事，这些故事将塑造这个开创性行业的未来。
