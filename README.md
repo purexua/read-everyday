@@ -10,7 +10,18 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 23 篇：[OpenAI 官方提示工程指南 ](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
+  
+  > 本指南分享了如何从大型语言模型（有时称为GPT模型）如GPT-4中获得更好结果的策略和战术。这里描述的方法有时可以组合使用以达到更好的效果。我们鼓励尝试不同方法，找到最适合您的方法。
+  
+- 第 22 篇：[Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4](https://t.co/Gl7E3aQh8q)
+  
+  >**26 Prompting Tips**
+  >
+  >Prompt engineering is the art of communicating with a generative large language model.
+  
 - 第 21 篇：[List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+  
   >This is a list of [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) (HTTP) response status codes. Status codes are issued by a server in response to a [client's request](https://en.wikipedia.org/wiki/Client_(computing)) made to the server.
   >
   >这是一个超文本传输协议（HTTP）响应状态码的列表。状态码是服务器对客户端发出的请求作出的响应。
