@@ -10,6 +10,17 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 24 篇：[Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
+  >StackOverflow 官方工程技术博客上的一篇新文章很有意思：《Self-healing code is the future of software development | 能自我修复的代码是软件开发的未来》
+  >
+  >未来的软件项目，越来越多的代码将会由 AI 生成，那人类做什么呢？让 AI 提供几个方案，人类确认就好，确认后就让 AI 去生成！ 
+  >
+  >但是 AI 生成的代码越来越多，怎么审查？怎么避免出 Bug？文章的建议就是让 AI 审查，让 AI 自己测试自己修复！ 
+  >
+  >所以需要针对 AI 去打造一个全新的开发流程，让 AI 自动提交、审查、部署测试环境、修复、部署生产环境、监控、回滚！ 
+  >
+  >**AI 要重塑软件工程了！**
+  
 - 第 23 篇：[OpenAI 官方提示工程指南 ](https://platform.openai.com/docs/guides/prompt-engineering/prompt-engineering)
   
   > 本指南分享了如何从大型语言模型（有时称为GPT模型）如GPT-4中获得更好结果的策略和战术。这里描述的方法有时可以组合使用以达到更好的效果。我们鼓励尝试不同方法，找到最适合您的方法。
