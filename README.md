@@ -10,7 +10,20 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 25 篇：[LLMs and Programming in the first days of 2024](http://antirez.com/news/140) - antirez
+  
+  > LLM在最多的情况下只能进行基本的推理，常常不准确，并且经常夹杂着关于不存在事实的幻觉。
+  >
+  > 现在的LLM不会带领我们走出知识的路径，但是如果我们想要解决一个我们不太了解的话题，它们通常可以将我们从绝对的无知中解救出来，让我们知道足够的东西以便自己继续前进。
+  >
+  > 然而，过去几个月的经验表明，对于系统编程来说，如果你已经是一名有经验的程序员，LLM几乎从不提供可接受的解决方案。
+  >
+  > 但是，如今不使用LLMs进行编程有何意义？向LLMs提出正确的问题是一项基本技能。
+  >
+  > 有时候，LLMs并不是唯一一个不理解我们想要表达的意思的人。
+  
 - 第 24 篇：[Self-healing code is the future of software development](https://stackoverflow.blog/2023/12/28/self-healing-code-is-the-future-of-software-development/)
+  
   >StackOverflow 官方工程技术博客上的一篇新文章很有意思：《Self-healing code is the future of software development | 能自我修复的代码是软件开发的未来》
   >
   >未来的软件项目，越来越多的代码将会由 AI 生成，那人类做什么呢？让 AI 提供几个方案，人类确认就好，确认后就让 AI 去生成！ 
