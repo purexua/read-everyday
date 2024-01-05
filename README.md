@@ -10,6 +10,13 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 26 篇：[What Makes Software Good?](https://medium.com/@mbostock/what-makes-software-good-943557f8a488)
+  >作为创建开源软件的人，我花了很多时间思考如何使软件变得更好。
+  >
+  >软件的哪些品质会导致人们成功或失败？
+  >如何改进我的软件并帮助更多人取得成功？
+  >我可以阐明任何指导原则，还是我只是根据具体情况应用直觉？
+  
 - 第 25 篇：[LLMs and Programming in the first days of 2024](http://antirez.com/news/140) - antirez
   
   > LLM在最多的情况下只能进行基本的推理，常常不准确，并且经常夹杂着关于不存在事实的幻觉。
