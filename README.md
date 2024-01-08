@@ -10,7 +10,13 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 27 篇：6 Harsh Truths That Will Make You a Better Person
+  >如果你的职业生涯进展顺利，对生活感到满意，人际关系也很和谐，那么你可以不用阅读这篇文章。请享受你美好的一天，朋友，这篇文章可能不适合
+  >
+  >你。你做得很出色，我们都为你感到骄傲。
+  
 - 第 26 篇：[What Makes Software Good?](https://medium.com/@mbostock/what-makes-software-good-943557f8a488)
+  
   >作为创建开源软件的人，我花了很多时间思考如何使软件变得更好。
   >
   >软件的哪些品质会导致人们成功或失败？
