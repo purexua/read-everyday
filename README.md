@@ -10,7 +10,7 @@ I hope you find them useful.
 
 ## Articles
 
-- 第 27 篇：6 Harsh Truths That Will Make You a Better Person
+- 第 27 篇：[6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person)
   >如果你的职业生涯进展顺利，对生活感到满意，人际关系也很和谐，那么你可以不用阅读这篇文章。请享受你美好的一天，朋友，这篇文章可能不适合
   >
   >你。你做得很出色，我们都为你感到骄傲。
