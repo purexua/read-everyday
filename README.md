@@ -10,7 +10,23 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 29 篇：接 28 篇，Restful API的规范文档
+  >[Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md)
+  >
+  >[Paypal API Design Guidelines](https://github.com/paypal/paypal-rest-api-specifications)
+  >
+  >[Google API Design Guide](https://cloud.google.com/apis/design) 
+  >
+  >[制定并遵循服从标准、规范和最佳实践](https://coolshell.cn/articles/21672.html#google_vignette)
+  
+- 第 28 篇：[一把梭：REST API 全用 POST](https://coolshell.cn/articles/22173.html)
+  
+  > *对接同事的接口，他定义的所有接口都是 post 请求，理由是 https 用 post 更安全，之前习惯使用 restful api ，如果说 https 只有 post 请求是安全的话？那为啥还需要 get 、put 、delete ？我该如何反驳他。”*
+  >
+  > 用POST干一切就像看到了来你家装修工人说，“老子干活就是用钉子钉一切，什么螺丝、螺栓、卡扣、插销……通通不用，钉枪一把梭，方便，快捷，安全，干完早回家……不过，还是有一些网友觉得用POST挺好的，而且可以节约时间。所以，正好，我在《[我做系统架构的原则](https://coolshell.cn/articles/21672.html)》中的“[原则五](https://coolshell.cn/articles/21672.html#原则五：制定并遵循服从标准、规范和最佳实践)”中反对API返回码无论对错全是200的返回那，我专门写下这一篇文章，以正视听。
+  
 - 第 27 篇：[6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person)
+  
   >如果你的职业生涯进展顺利，对生活感到满意，人际关系也很和谐，那么你可以不用阅读这篇文章。请享受你美好的一天，朋友，这篇文章可能不适合
   >
   >你。你做得很出色，我们都为你感到骄傲。
