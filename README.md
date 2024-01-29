@@ -10,7 +10,12 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 30 篇：[使用 AI 学习编程时，切记还需独立思考](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
+  
+  > 在 AI 的帮助下，学习编程可能比以往任何时候都要容易。然而，这些能够为你提供建议或生成源代码的工具必须谨慎使用。
+  
 - 第 29 篇：接 28 篇，Restful API的规范文档
+  
   >[Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/graph/Guidelines-deprecated.md)
   >
   >[Paypal API Design Guidelines](https://github.com/paypal/paypal-rest-api-specifications)
