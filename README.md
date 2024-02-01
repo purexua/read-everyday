@@ -10,6 +10,10 @@ I hope you find them useful.
 
 ## Articles
 
+- 第 31 篇：[Suddenly, I Understand Software](https://johnwhiles.com/posts/programming-as-theory)
+  
+  > 软件需要有人通盘理解它的运作机制，所以单个工程师有可能比一个职业开发团队造出更好的产品。因为单个工程师花时间，完整理解了他要构建的软件，而职业开发团队总是从一个项目转移到另一个项目。
+  
 - 第 30 篇：[使用 AI 学习编程时，切记还需独立思考](https://www.theregister.com/2024/01/27/ai_coding_automatic/)
   
   > 在 AI 的帮助下，学习编程可能比以往任何时候都要容易。然而，这些能够为你提供建议或生成源代码的工具必须谨慎使用。
